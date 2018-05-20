@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=fileName
+comment1.target=java.util.LinkedList\ readItems(java.lang.String)
+comment2.params=l
+comment2.target=void\ removeFirstMiddleLast(java.util.LinkedList)
+comment3.params=l
+comment3.target=void\ printListWithSeparator(java.util.LinkedList)
+numComments=4
